@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Split Bill</string>
+    <string name="bill_amount">Bill Amount $</string>
+    <string name="EnterBill">Please enter your bill amount below </string>
+    <string name="EnterTip"> Please enter tip percentage below </string>
+    <string name="People"> Please enter number of people below </string>
+    <string name="title_activity_maps">Map</string>
+</resources>

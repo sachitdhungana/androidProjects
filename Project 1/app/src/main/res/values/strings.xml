@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Split Bill</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_split_bill">SplitBillActivity</string>
+</resources>
